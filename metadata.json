@@ -1,0 +1,6 @@
+{
+  "name": "MONSOON & MOCHA — Specialty Café",
+  "description": "Your little corner of coffee and calm. Thoughtfully brewed specialty coffee, fresh bakes, and peaceful slower moments in Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
